@@ -1,0 +1,13 @@
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.exe
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.deps.json
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.runtimeconfig.json
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.runtimeconfig.dev.json
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.dll
+C:\Users\Oleksandr\source\repos\simlpeStack\bin\Debug\netcoreapp3.1\simlpeStack.pdb
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.csprojAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.AssemblyInfo.cs
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.dll
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.pdb
+C:\Users\Oleksandr\source\repos\simlpeStack\obj\Debug\netcoreapp3.1\simlpeStack.genruntimeconfig.cache
